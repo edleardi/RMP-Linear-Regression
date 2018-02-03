@@ -35,9 +35,11 @@ Repo Files:
 
 Edward Leardi
 
+* https://www.linkedin.com/in/edwardleardi/ 
 * http://edwardleardi.com/
 * https://github.com/edleardi
 * https://medium.com/@edleardi_17288
+
 
 
 
