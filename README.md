@@ -45,4 +45,4 @@ Edward Leardi
 
 * Metis – Special shout outs to Joe Eddy and Debbie Berebichez
 * Ratemyprofessors for not suing me! (I promise I'm not using this data for personal financial gain)
-# RMP_Linear_Regression
+
